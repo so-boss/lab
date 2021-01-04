@@ -1,3 +1,7 @@
 
 node_modules/
 .idea/
+*.log
+genesis/.eslintcache
+genesis/.eslintcache
+genesis/.eslintcache
